@@ -1,8 +1,9 @@
 <html>
 <head>
  <title> ordered list </title>
+<h1> fruit </h1>
 <body>
- <h1> fruits </h1>
+ 
 <ol>
 <li> Apple
 <li> Mango
